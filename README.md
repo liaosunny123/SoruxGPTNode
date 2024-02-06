@@ -1,0 +1,2 @@
+# SoruxGPTNode
+Node for SoruxGPT
